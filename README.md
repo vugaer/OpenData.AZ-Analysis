@@ -1,5 +1,12 @@
-Hello!
+# OpenData.AZ Analysis
 
-No need for other stuff, you can see all through the html files provided or the jupyter files itself.
+This repository contains preprocessing and analysis of open datasets published on **[opendata.az](https://opendata.az)**.  
+The goal of this project is to explore, clean, and analyze publicly available datasets to extract insights and build a foundation for further data-driven research.
 
-So good luck having them!
+## 📊 Data Source
+
+All datasets used in this project are obtained from **opendata.az**, Azerbaijan’s official open data portal.  
+These datasets cover various public domains such as economy, demographics, transportation, education, and more.
+
+## 📁 Repository Structure
+
