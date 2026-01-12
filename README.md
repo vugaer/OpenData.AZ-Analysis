@@ -10,15 +10,12 @@ These datasets cover various public domains such as economy, demographics, trans
 
 ## 📁 Repository Structure
 
-tbd
+We have a simple structure.
 
-## 🔍 What This Project Includes
-
-- Downloading datasets from opendata.az
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Basic visualizations and statistical summaries
-- Reproducible Jupyter Notebook-based analysis
+* README.md
+* analyze.ipynb
+* datasets/
+*   datax.csv...
 
 ## 🛠 Technologies Used
 
@@ -33,14 +30,17 @@ tbd
 1. Clone the repository:
    ```bash
    git clone https://github.com/vugaer/OpenData.AZ-Analysis.git
+
 Navigate into the project:
 
-bash
-Copy code
+```bash
 cd OpenData.AZ-Analysis
-Open the Jupyter Notebook:
-
-bash
-Copy code
+```
+Open Jupyter Notebook:
+```bash
 jupyter notebook
-Explore the analysis inside the analyzes folder.
+```
+
+and that's it! Please make sure you have installed dependencies!
+
+It is NOT recommended to run this notebook on Windows host devices as it can cause path issues.
