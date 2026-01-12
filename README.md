@@ -13,13 +13,14 @@ These datasets cover various public domains such as economy, demographics, trans
 OpenData.AZ-Analysis/
 │
 ├── analyzes/
-│ ├── analyze.ipynb # Data preprocessing and analysis notebooks
-│ └── README.md # Details about analysis workflow
+│   ├── analyze.ipynb    # Data preprocessing and analysis notebook
+│   └── README.md        # Details about analysis workflow
 │
 ├── datasets/
-│ └── ... # Raw and/or processed datasets from opendata.az
+│   └── ...              # Raw and/or processed datasets from opendata.az
 │
-└── README.md # Project overview
+└── README.md             # Project overview
+
 
 markdown
 Copy code
